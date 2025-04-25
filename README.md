@@ -2,7 +2,7 @@
 Project for EEL 2 by Group Number 7
 Group Members:-
 1) Vinit Patil (B24IT1040)
-2) Rajwardhan Bendre(B24It1031)
+2) Rajwardhan Bendre(B24IT1031)
 3) Sarthak Patil (B24IT1044)
 4) Varad Rajboinwad (B24IT1059)
 
